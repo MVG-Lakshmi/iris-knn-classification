@@ -57,7 +57,7 @@ The dataset contains 150 rows and 5 columns:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/iris-knn-classification.git
+   git clone https://github.com/MVG-Lakshmi/iris-knn-classification.git
    cd iris-knn-classification
 
 2. Install dependencies:
