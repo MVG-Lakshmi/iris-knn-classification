@@ -61,7 +61,9 @@ The dataset contains 150 rows and 5 columns:
    cd iris-knn-classification
 
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
 3. Open the Jupyter Notebook:
+   ```bash
    jupyter notebook iris_knn.ipynb
