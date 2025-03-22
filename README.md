@@ -67,3 +67,9 @@ The dataset contains 150 rows and 5 columns:
 3. Open the Jupyter Notebook:
    ```bash
    jupyter notebook iris_knn.ipynb
+
+## 📌 Author
+
+- Motamarri Venkata Gangadha Lakshmi 
+- GitHub: https://github.com/MVG-Lakshmi
+- LinkedIn: https://www.linkedin.com/in/motamarri-venkata-gangadha-lakshmi-05b2812a0
